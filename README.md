@@ -15,6 +15,11 @@ fetch_mobile_numbers: ^0.0.1
 Then, run flutter pub get to install the package.
 
 ## Usage
+### Add permission "READ_PHONE_STATE"
+```
+<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+```
+Add the above permission in AndroidManifest.xml
 ### Import the Package
 ```dart
 import 'package:fetch_mobile_numbers/fetch_mobile_numbers.dart';

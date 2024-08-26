@@ -1,7 +1,7 @@
-name: my_flutter_plugin
+name: fetch_mobile_numbers
 description: A Flutter plugin to fetch mobile number and other information related to it from the device
 version: 0.0.1
-repository: https://github.com/yourusername/my_flutter_plugin
+repository: https://github.com/devakar-dhiman/fetch_mobile_numbers.git
 license: MIT
 
 environment:
